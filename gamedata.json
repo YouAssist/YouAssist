@@ -1,5 +1,5 @@
 {
-  'host':'remotemysql.com',
+  "host":"remotemysql.com",
   'username': 'xGdlTYWSAT',
   'password': '5gFCxOamlA',
   'database':'xGdlTYWSAT',
