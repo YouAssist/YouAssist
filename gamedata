@@ -1,0 +1,10 @@
+db1 = {'host':'remotemysql.com',
+'username': 'xGdlTYWSAT',
+'password': '5gFCxOamlA',
+'database':'xGdlTYWSAT'
+}
+db2 = {'host1': 'remotemysql.com',
+'username1': 'dPNuhqoDiB',
+'password1': 'AHjbsRgbgX',
+'database1': 'dPNuhqoDiB'
+}
