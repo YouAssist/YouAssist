@@ -1,10 +1,10 @@
 {
-  "host":"remotemysql.com",
-  "username": "xGdlTYWSAT",
-  "password": "5gFCxOamlA",
-  "database":"xGdlTYWSAT",
-  "host1": "remotemysql.com",
-  "username1": "dPNuhqoDiB",
-  "password1": "AHjbsRgbgX",
-  "database1": "dPNuhqoDi"
+  "hn":"remotemysql.com",
+  "un": "xGdlTYWSAT",
+  "ps": "5gFCxOamlA",
+  "db":"xGdlTYWSAT",
+  "hn1": "remotemysql.com",
+  "un1": "dPNuhqoDiB",
+  "ps1": "AHjbsRgbgX",
+  "db1": "dPNuhqoDi"
 }
