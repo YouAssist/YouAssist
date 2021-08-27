@@ -1,10 +1,10 @@
 {
-  "hn":"remotemysql.com",
-  "un": "xGdlTYWSAT",
-  "ps": "5gFCxOamlA",
-  "db":"xGdlTYWSAT",
-  "hn1": "remotemysql.com",
-  "un1": "dPNuhqoDiB",
-  "ps1": "AHjbsRgbgX",
-  "db1": "dPNuhqoDiB"
+  "hn":"mysql-47426-0.cloudclusters.net",
+  "un": "admin",
+  "ps": "2SYPqkio",
+  "db":"links_data",
+  "hn1": "mysql-47426-0.cloudclusters.net",
+  "un1": "admin",
+  "ps1": "2SYPqkio",
+  "db1": "register_links"
 }
